@@ -1,0 +1,9 @@
+# SDTM Synth v2 — Pinned dependencies for byte-identical output
+# Generated: 2026-02-17
+# Python: 3.12.3
+
+numpy==2.4.1
+scipy==1.17.0
+pandas==3.0.0
+pydantic==2.12.5
+PyYAML==6.0.3
